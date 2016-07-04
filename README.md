@@ -1,2 +1,0 @@
-# wirtualnyKardiolog
-Wirtualny Kardiolog
